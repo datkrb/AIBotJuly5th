@@ -1,0 +1,16 @@
+# Generated Step 1 outputs
+/docs/
+/metadata/articles.json
+
+# Temporary / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local editor / environment files
+.vscode/
+.venv/
+
+# Legacy / accidental folder with duplicate script
+/1. Scrape data/
