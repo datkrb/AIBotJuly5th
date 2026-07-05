@@ -1,0 +1,44 @@
+name: Daily Scraper Job
+
+on:
+  schedule:
+    # Chạy vào 00:00 (Nửa đêm) UTC mỗi ngày
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công (Manual run)
+
+jobs:
+  scrape-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Build Docker Image
+        run: docker build -t main.py .
+
+      - name: Run Scraper and Delta Upload via Docker
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          # Tạo trước các thư mục để tránh lỗi quyền truy cập Volume
+          mkdir -p docs metadata cache
+          
+          # Chạy image qua Docker, mount các thư mục để giữ cache delta
+          docker run --rm \
+            -v ${{ github.workspace }}/docs:/app/docs \
+            -v ${{ github.workspace }}/metadata:/app/metadata \
+            -v ${{ github.workspace }}/cache:/app/cache \
+            -e API_KEY \
+            main.py
+
+      - name: Commit Updated Cache and Docs (Optional)
+        # Bước này tự động commit và push thư mục cache/docs mới về repo để lần sau lưu lại trạng thái Delta
+        run: |
+          # Fix quyền sở hữu file do Docker container sinh ra
+          sudo chown -R $USER:$USER docs/ metadata/ cache/
+          
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/ cache/ metadata/
+          git commit -m "chore: update daily knowledge base [skip ci]" || echo "No changes to commit"
+          git push

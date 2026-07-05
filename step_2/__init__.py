@@ -1,1 +1,0 @@
-"""Step 2: upload docs and create the assistant."""
