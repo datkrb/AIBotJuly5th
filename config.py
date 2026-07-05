@@ -11,7 +11,6 @@ ROOT_DIR = Path(__file__).resolve().parent
 @dataclass(frozen=True)
 class Settings:
     api_key: str = ""
-    model: str = "gemini-2.5-flash"
     docs_dir: Path = ROOT_DIR / "docs"
     cache_dir: Path = ROOT_DIR / "cache"
     cache_file: Path = ROOT_DIR / "cache" / "uploaded_files.json"
@@ -54,9 +53,7 @@ def load_settings() -> Settings:
     _parse_env_file(ROOT_DIR / ".env")
 
     api_key = _env_first("GEMINI_API_KEY", "GOOGLE_API_KEY", "API_KEY")
-    model = os.getenv("MODEL", "gemini-2.5-flash")
 
     return Settings(
         api_key=api_key,
-        model=model,
     )

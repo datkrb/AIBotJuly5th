@@ -74,8 +74,8 @@ def write_article_markdown(article: dict[str, Any], slug_counts: dict[str, int])
 
 
 def main() -> None:
-    first_page = fetch_articles(page=1, per_page=100)
-    articles = first_page.get("articles", [])[:100]
+    first_page = fetch_articles(page=1, per_page=50)
+    articles = first_page.get("articles", [])[:50]
 
     slug_counts: dict[str, int] = {}
     metadata: dict[str, dict[str, str]] = {}

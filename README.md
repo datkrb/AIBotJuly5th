@@ -1,57 +1,54 @@
-# OptiSigns Mini-Clone
+# Project-X-Delta (OptiBot Knowledge Base Sync)
 
-## Structure by step
+A fully automated pipeline that scrapes knowledge base articles, normalizes them to Markdown, and synchronizes the delta directly to Google Gemini's vector store.
 
-```text
-.env.sample
-Dockerfile
-config.py
-scraper.py
-uploader.py
-main.py
+## 1. Setup
 
-docs/
-├── *.md
+1. **Clone the repository:**
+   ```bash
+   git clone <your-repo-url>
+   cd <your-repo-name>
+   ```
+2. **Install dependencies (Python 3.13):**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Configure Environment:**
+   ```bash
+   cp .env.sample .env
+   ```
+   Edit `.env` and insert your Gemini API Key: `API_KEY=your_gemini_api_key_here`
 
-cache/
-└── uploaded_files.json
-```
+## 2. How to run locally
 
-## What each file does
-
-- `scraper.py`: Scrape OptiSigns Help Center articles and write them to `docs/*.md`.
-- `uploader.py`: Syncs and uploads the Markdown docs to Gemini (using delta logic).
-- `main.py`: Re-run the pipeline daily (scrape -> upload delta).
-
-## Chunking strategy
-
-- Chunk size: 800 tokens
-- Overlap: 100 tokens
-
-The code currently uses a simple word-based approximation for chunk counting. If you need exact token counts, swap the chunker for a tokenizer from your chosen LLM SDK.
-
-## How to run
+**Using Docker (As requested):**
+Build the image with the specific tag `main.py` and execute the container. It will run the scraper, detect deltas, upload new/updated files to the API, log the counts, and exit `0`.
 
 ```bash
-python main.py
+docker build -t main.py .
+docker run -e API_KEY="your_api_key_here" main.py
 ```
 
-## Environment variables
-
-- `API_KEY=...`
-- `MODEL=gemini-2.5-flash`
-
-## Docker
-
+*Note: For persistent local cache during multiple tests, use volume mounts:*
 ```bash
-docker build -t optisigns-mini-clone .
-docker run --rm -e API_KEY=... optisigns-mini-clone
+docker run --rm -v "${PWD}/cache:/app/cache" -v "${PWD}/docs:/app/docs" -v "${PWD}/metadata:/app/metadata" -e API_KEY="your_api_key_here" main.py
 ```
 
-## Daily Job Logs
+## 3. Chunking Strategy
 
-[Link to daily job logs] (Insert your link here)
+To ensure high-quality RAG (Retrieval-Augmented Generation), this project uses a **Semantic Markdown Chunker** (`uploader.py`) instead of naive word-count splitting:
+- **Paragraph-Aware Splitting:** Documents are split using double newlines (`\n\n`) to preserve the structural integrity of paragraphs, lists, and tables.
+- **Size Threshold (800 words):** A chunk is only split if it exceeds 800 words (~1000 tokens), which is optimal for LLM context windows. Short articles remain intact as a single chunk.
+- **Header Context Injection & Overlap:** When a split is necessary, the chunker prepends the most recently observed Markdown header (e.g., `[## Feature X]`) to the newly formed chunk and includes a 100-word overlap. This guarantees that the LLM never loses the semantic context of a section, even if it is fragmented across chunks.
 
-## Assistant Screenshot
+## 4. Daily Job Logs
 
-![Assistant answering sample question](Replace_With_Your_Screenshot_Path.png)
+The daily job is deployed via **GitHub Actions** (Cron at 00:00 UTC). It automatically commits delta state changes back to the repository.
+
+**Link to Daily Job Logs:** [https://github.com/datkrb/AIBotJuly5th/actions](https://github.com/datkrb/AIBotJuly5th/actions)
+
+## 5. Assistant Screenshot
+
+*Below is a screenshot from Google AI Studio (Playground) showing the assistant correctly answering a sample question using the programmatically uploaded files.*
+
+![Assistant Screenshot](image/README/1783263046834.png)
