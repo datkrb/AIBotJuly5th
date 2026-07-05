@@ -1,54 +1,59 @@
-# Project-X-Delta (OptiBot Knowledge Base Sync)
+# DATA DATA
 
-A fully automated pipeline that scrapes knowledge base articles, normalizes them to Markdown, and synchronizes the delta directly to Google Gemini's vector store.
 
-## 1. Setup
+## 1. Cài đặt (Setup)
 
-1. **Clone the repository:**
+1. **Clone (tải) repository này về máy:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/datkrb/AIBotJuly5th.git
+   cd AIBotJuly5th
    ```
-2. **Install dependencies (Python 3.13):**
+2. **Cài đặt các thư viện Python (yêu cầu Python 3.13):**
    ```bash
    pip install -r requirements.txt
    ```
-3. **Configure Environment:**
+3. **Cấu hình môi trường (Environment):**
    ```bash
    cp .env.sample .env
    ```
-   Edit `.env` and insert your Gemini API Key: `API_KEY=your_gemini_api_key_here`
+   Mở file `.env` và dán API key Gemini của bạn vào: `API_KEY=your_gemini_api_key_here`
 
-## 2. How to run locally
+## 2. Hướng dẫn chạy thử (How to run locally)
 
-**Using Docker (As requested):**
-Build the image with the specific tag `main.py` and execute the container. It will run the scraper, detect deltas, upload new/updated files to the API, log the counts, and exit `0`.
+**Chạy trực tiếp bằng Python:**
+Khởi chạy toàn bộ quy trình (Cào bài báo -> Tính toán khác biệt (Delta) -> Upload Delta):
+```bash
+python main.py
+```
+
+**Sử dụng Docker:**
+Build image với tên (tag) bắt buộc là `main.py` và khởi chạy nó. Hệ thống sẽ quét các bài viết, phát hiện các file mới/cập nhật, upload sự thay đổi đó (delta) lên API, in ra số lượng file và tự động thoát (exit `0`).
 
 ```bash
 docker build -t main.py .
 docker run -e API_KEY="your_api_key_here" main.py
 ```
 
-*Note: For persistent local cache during multiple tests, use volume mounts:*
+*Lưu ý: Để giữ lại thư mục cache phục vụ việc kiểm tra delta ở máy trạm nhiều lần, bạn có thể ánh xạ ổ đĩa (volume mount):*
 ```bash
 docker run --rm -v "${PWD}/cache:/app/cache" -v "${PWD}/docs:/app/docs" -v "${PWD}/metadata:/app/metadata" -e API_KEY="your_api_key_here" main.py
 ```
 
 ## 3. Chunking Strategy
 
-To ensure high-quality RAG (Retrieval-Augmented Generation), this project uses a **Semantic Markdown Chunker** (`uploader.py`) instead of naive word-count splitting:
-- **Paragraph-Aware Splitting:** Documents are split using double newlines (`\n\n`) to preserve the structural integrity of paragraphs, lists, and tables.
-- **Size Threshold (800 words):** A chunk is only split if it exceeds 800 words (~1000 tokens), which is optimal for LLM context windows. Short articles remain intact as a single chunk.
-- **Header Context Injection & Overlap:** When a split is necessary, the chunker prepends the most recently observed Markdown header (e.g., `[## Feature X]`) to the newly formed chunk and includes a 100-word overlap. This guarantees that the LLM never loses the semantic context of a section, even if it is fragmented across chunks.
+Để đảm bảo chất lượng hệ thống tìm kiếm (RAG), dự án này sử dụng thuật toán **Semantic Markdown Chunker** (`uploader.py`) thay vì chỉ cắt theo số lượng từ thô sơ:
+- **Cắt theo đoạn văn (Paragraph-Aware):** Tài liệu được chia cắt ở các dấu phím enter kép (`\n\n`) nhằm bảo toàn nguyên vẹn cấu trúc của các đoạn văn, danh sách, và bảng biểu.
+- **Ngưỡng độ dài (800 từ):** Một đoạn (chunk) chỉ bị cắt nếu nó vượt quá 800 từ (~1000 tokens) - đây là kích thước tối ưu nhất cho ngữ cảnh của LLM. Các bài viết ngắn hơn 800 từ sẽ được giữ nguyên 100% trong một chunk duy nhất.
+- **Bơm ngữ cảnh Tiêu đề & Gối đầu (Header Context Injection & Overlap):** Khi phải cắt một văn bản dài, thuật toán sẽ lấy tiêu đề Markdown gần nhất gắn vào đầu đoạn cắt mới, đồng thời lấy dư ra 100 từ của đoạn cũ (Overlap). Điều này giúp cho AI không bao giờ bị mất đi ngữ cảnh gốc, dù cho một phần của đoạn văn bản có bị tách rời.
 
-## 4. Daily Job Logs
+## 4. Log chạy tự động hàng ngày (Daily Job Logs)
 
-The daily job is deployed via **GitHub Actions** (Cron at 00:00 UTC). It automatically commits delta state changes back to the repository.
+Tác vụ tự động hàng ngày được triển khai qua **GitHub Actions** (chạy vào lúc 00:00 UTC). Nó tự động commit và lưu trạng thái delta ngược về lại kho chứa (repository).
 
-**Link to Daily Job Logs:** [https://github.com/datkrb/AIBotJuly5th/actions](https://github.com/datkrb/AIBotJuly5th/actions)
+**Link truy cập Log chạy tự động:** [https://github.com/datkrb/AIBotJuly5th/actions/runs/28745194184/job/85234793649](https://github.com/datkrb/AIBotJuly5th/actions/runs/28745194184/job/85234793649)
 
-## 5. Assistant Screenshot
+## 5. Ảnh chụp màn hình Assistant (Assistant Screenshot)
 
-*Below is a screenshot from Google AI Studio (Playground) showing the assistant correctly answering a sample question using the programmatically uploaded files.*
+*Dưới đây là ảnh chụp màn hình từ Google AI Studio (Playground), cho thấy Assistant trả lời chính xác câu hỏi ngẫu nhiên và có dẫn link tài liệu từ dữ liệu đã được hệ thống upload.*
 
 ![Assistant Screenshot](image/README/1783263046834.png)
