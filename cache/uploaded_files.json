@@ -1,0 +1,202 @@
+{
+  "/app/docs/accepted-payment-methods.md": {
+    "hash": "01f6cc78c47cb73437372c60568fde7b0b3d39cf3e1a246b256d0d02af6ef983",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/r3vxzsj3wby7"
+  },
+  "/app/docs/chromeos-pwa-instructions.md": {
+    "hash": "29e074d4ca69c35d448f35b8f73a92f362b28665c7aeb34f57f12bef4e3a8f27",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/j2h17i4iedlw"
+  },
+  "/app/docs/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
+    "hash": "54ec03fd6e05a86c6417167c33f7bbc7056e1ee2aceec80203fa3c532de71a20",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/uboldwj39210"
+  },
+  "/app/docs/connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
+    "hash": "62eabbe9dae0aaf18c89028aad23c30bbe3f3a2e59a399126cbe63b454a6d44e",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/tw9fclkbnzwy"
+  },
+  "/app/docs/connect-google-meet-hardware-to-optisigns-digital-signage.md": {
+    "hash": "37266a398f9249575c7c38fa9ad02e199e875dc017a03512416dca8b962fedce",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/9nae8duovwj1"
+  },
+  "/app/docs/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": {
+    "hash": "993fecaacfdafed3694b6515760b18649b0f6ba7bd1269d64e30c07ec033a830",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/nk8ae4kkgisb"
+  },
+  "/app/docs/connect-zoom-rooms-to-optisigns-digital-signage.md": {
+    "hash": "fcb59aebedaa8f878d6c46f1ea2246f8dd8396585e0d7d5ee6eec967c7152ceb",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/152q6zkeijos"
+  },
+  "/app/docs/designer-2-0-new-features.md": {
+    "hash": "d8535dd6ab3620605fad015b15e79bf790e24e28d70ab590f45417b07e4b7dc2",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/e50vz8rxajws"
+  },
+  "/app/docs/disk-encryption.md": {
+    "hash": "402713f54cb61cb9f09f935085ec6651b1a55b485c2192b1c3005af68e5368e3",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ab3j0uck8fo3"
+  },
+  "/app/docs/display-salesforce-dashboards-with-mfa-using-web-scripting.md": {
+    "hash": "cec6f8e5070ca767e692e4b667fc336634cbf7adb4403b7a5e8b12d57c791e0d",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/c6txrx50iiv3"
+  },
+  "/app/docs/enabling-lock-down-mode-on-touch-screen-devices.md": {
+    "hash": "00d41dd8b29b3b1d8eb4249f90d0447edbad5388af6d7735c3562dddf42d5d65",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/nn99e7o3yggz"
+  },
+  "/app/docs/fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md": {
+    "hash": "389020f8d510d1fccfc5aaaaf7cd623b3b7fb28e0bf470ae489989c168cb7e94",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/uiuwtfpom9qt"
+  },
+  "/app/docs/getting-started-with-an-optisigns-free-trial.md": {
+    "hash": "6b954def0294b680e3cb09eb35e2f9613a9fea719758e9bb30f583dbd833f474",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ru3hq1gu229g"
+  },
+  "/app/docs/getting-started-with-designer.md": {
+    "hash": "4bab011dc2a6f56435f2ec7db85dc27e7e02042e6531a9a7989c2fefa3343bb4",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/0gr76df5airf"
+  },
+  "/app/docs/getting-started-with-touch-screen-kiosks.md": {
+    "hash": "d9b8c7861b03c940ac1eac89812a7bfe555d36ae90ee7980d217068591d6cf22",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/igxbcjbbeygj"
+  },
+  "/app/docs/guide-for-creating-content-with-optisigns.md": {
+    "hash": "451a582b2c37e435088a1ba9f581117eab4218adebb50aa0988b2f1edda98dae",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/6ro4z2xtdblm"
+  },
+  "/app/docs/handle-oauth-authentication-using-api-gateway-pre-request-configuration.md": {
+    "hash": "20c663514ef4d5c2492fa210e6eb797c6ef54011ce39b9638d7c7ebfc0f73d61",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/v64wiyr8vamc"
+  },
+  "/app/docs/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md": {
+    "hash": "a1b9f21f56a007c1e9edb7bd89ba86e11906c612aa9256f046c148fc2658a6fd",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/k6juxq67utz8"
+  },
+  "/app/docs/how-to-clear-cache-on-a-brightsign-player.md": {
+    "hash": "f96a3a18a9d1e792f50308d906c19b5945f763c5a4b8d593a6f8c6e2fbe705e2",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/9fp7eq6lbf2t"
+  },
+  "/app/docs/how-to-create-an-attract-screen-for-your-kiosk.md": {
+    "hash": "6b0b12fa4d561735cf4c7796b85976edaf4c56733c631573a2156a2eb3663c04",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/iqxwu8agz7gw"
+  },
+  "/app/docs/how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md": {
+    "hash": "77bcde4749ce1169290dc13162eb708e4b5e91fb9f8ce1219dcafd26f882ce9e",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/wy4nlnhlqhvj"
+  },
+  "/app/docs/how-to-display-a-snowflake-dashboard-with-optisigns.md": {
+    "hash": "6add018d6aaa833b543af04edbbb08193ff9b252ed6aa7bb9bab59b4535ac09b",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/swxkn7i4ozzr"
+  },
+  "/app/docs/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
+    "hash": "32b247e8e806b01a453fef8ff429420a41083088ecbcb210831b0351750da71d",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/uqea9lfmqmpt"
+  },
+  "/app/docs/how-to-order-a-preconfigured-optisigns-android-player-device.md": {
+    "hash": "8a01335671e00007863d714ed5f06eeac0167621b9d10e49ff274e19e50f87c7",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/54fmvxsp5gv6"
+  },
+  "/app/docs/how-to-play-licensed-background-music-on-digital-signs-with-optisound.md": {
+    "hash": "964d5e975e2dbb39ac384d1b4707bdffe0db5d294f464bcd7e633758a23722da",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ceo3dd7832t5"
+  },
+  "/app/docs/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md": {
+    "hash": "39833b7841591c88ea063b2b902e5780e1d2bfb03d7c0c1494709d2f2728bb05",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/dc1tikcbybx7"
+  },
+  "/app/docs/how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md": {
+    "hash": "0a4e7e6811376288af3ca37c23329493e521ba8d086af568321b7e6d2754aa80",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/4ti0btncvn80"
+  },
+  "/app/docs/how-to-set-up-dynamic-data-mapping-with-optisync.md": {
+    "hash": "a50a760a1aa365096baf9721c2c71a9e1b938f9bbba4d683f078747ebf74301f",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/stq366qopvhf"
+  },
+  "/app/docs/how-to-use-optisigns-with-microsoft-teams-rooms.md": {
+    "hash": "1a15f28593f038fe28fa97b98857b0605c90c0d7ba112600c9736207e1e84c6e",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/gnsojv3y66gc"
+  },
+  "/app/docs/how-to-use-the-google-ads-dashboard-app.md": {
+    "hash": "0c61dc445337d0e086ae999e52e18212514a9b0aa2307c626ca665a088b51dfa",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/wuxbebjionia"
+  },
+  "/app/docs/how-to-use-the-google-search-console-app.md": {
+    "hash": "6cda4c0179d21fa5ca842e9231d9424ca62a218b46f6c3a472cfb8597d57a0a6",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/pltbqog2zxau"
+  },
+  "/app/docs/how-to-use-the-mobile-app-for-remote-control.md": {
+    "hash": "e28fd3cdd6993492bd46810d4775e2fc90588bceb33359c394efb167dbd886b2",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/s5tvxto5lmlz"
+  },
+  "/app/docs/how-to-use-the-optidev-app.md": {
+    "hash": "58dbace76d1584e649495a86cff295d04ff6445d8ab544dabc9b5712efbec162",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ih2kqk709012"
+  },
+  "/app/docs/how-to-use-the-tableau-app.md": {
+    "hash": "74b3597b3d3460d688e6fcc876508685c52e772ac446d08d54ecf41441bb2375",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/71g4aegdau17"
+  },
+  "/app/docs/how-to-use-the-youtube-dashboard-app.md": {
+    "hash": "4fdbba4cc9bb3e8589db4976c4dc7ea57cef323e59a4754e01954540bfd17d63",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/1ragzfsy9nt6"
+  },
+  "/app/docs/how-to-use-toast-api-data-with-optisigns.md": {
+    "hash": "f26aeaa25804052b797b54822407c9e01c89181c687b07be55adc555d119c52e",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/njez0kxksd2w"
+  },
+  "/app/docs/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md": {
+    "hash": "3ff6f5ffb50ff63f8e2383f201c154a8a622c0899dfa9d347d30448623b22d57",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/suud5c612xui"
+  },
+  "/app/docs/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md": {
+    "hash": "74dd828be4b7f04ac8cf01b856129a260979f2c8a8c3c147a56e2fcdb1c667ff",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/poq53dr0gyza"
+  },
+  "/app/docs/list-of-supported-cities-for-weather-wall-city-themes.md": {
+    "hash": "ecbacbba00cd175157ddd3933b1f564fde34045255c9e4eaf898445c18cf3ff7",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/2264lk2aq6et"
+  },
+  "/app/docs/making-a-video-wall-with-optisigns-video-wall-app.md": {
+    "hash": "3078e7fee9b8717c4fcbadbfa0bd66c1314d9e601760e78beb4f562af91d0819",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/1273yf1vsqua"
+  },
+  "/app/docs/operational-schedule-troubleshooting.md": {
+    "hash": "28fc7ec3c5df606d8f4860954513152a19a2a75263bbb710f620ca92127e9e23",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/9qupuj8nyom4"
+  },
+  "/app/docs/optisigns-digital-signage-app-for-zoom-adding-using-and-removing-the-app.md": {
+    "hash": "cf51ec809dbdf8e23b80de84baf12bea3748f626568e816aa3507bd30443a413",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/p15dupm01u3o"
+  },
+  "/app/docs/optisigns-pro-promax-player-troubleshooting-guide.md": {
+    "hash": "72f8ac487e1296bd258b7aceac5b7a17500f466c4410aad4945b1b59c1ef3ecb",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ii0b1hv3oj5z"
+  },
+  "/app/docs/optistick-troubleshooting-guide.md": {
+    "hash": "069f9177ee7d3cacb3662c59e151c8097603224a3a9ee34596855931593a89a4",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/p3mcvga0jseb"
+  },
+  "/app/docs/room-integrations-turn-your-meeting-rooms-into-digital-signage.md": {
+    "hash": "32202198fd1e42a59dd79f55640a50b25e6c1f3bd13b97ababc127a81a66d5b1",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/zmgrnxhbn2ve"
+  },
+  "/app/docs/tagging-in-optisigns.md": {
+    "hash": "fea1a62cec5cfe721ba3e400fea4461bee2de0c87098be4061daea27fc483c37",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/a36h5yliwybj"
+  },
+  "/app/docs/user-management-example-chain-restaurant-or-retail-store-with-multiple-locations.md": {
+    "hash": "50922abdbceb00cfe6d9ca0aa5e4e86616558cea336d974e72dbcb9f89398158",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/um0z6d4nervq"
+  },
+  "/app/docs/using-an-enterprise-network-802-1x-with-optisigns.md": {
+    "hash": "3e8f0ad029957554d574bf9d16a6a75755f2e3ec2e095c227f7af30a13b13e13",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ydh1dq4mtlpt"
+  },
+  "/app/docs/using-the-japan-earthquake-app.md": {
+    "hash": "af434e8e133d03ae0e507897755dec5adb17e68229cc1a83b8eabef46caa62d4",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/yqe27kqz4icd"
+  },
+  "/app/docs/what-do-i-get-with-an-optisigns-free-plan.md": {
+    "hash": "a695de65bf2ace2bf96201e1d08496a549bfd2f4be0cf7e3e2ab7a96163ec7db",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/1j1gmhxih1ib"
+  }
+}
