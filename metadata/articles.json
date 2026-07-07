@@ -1,7 +1,13 @@
 {
+  "53216900345875": {
+    "title": "What Access Does OptiSigns Have to My Account and Devices?",
+    "updated_at": "2026-07-06T15:29:04Z",
+    "file": "docs/what-access-does-optisigns-have-to-my-account-and-devices.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices"
+  },
   "53095698149011": {
     "title": "Using the Japan Earthquake App",
-    "updated_at": "2026-07-02T14:16:18Z",
+    "updated_at": "2026-07-06T14:22:20Z",
     "file": "docs/using-the-japan-earthquake-app.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2025-09-04T17:54:40Z",
     "file": "docs/how-to-set-up-dynamic-data-mapping-with-optisync.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync"
-  },
-  "28598173096723": {
-    "title": "How To Create and Use Operational Schedules (HDMI-CEC, RS-232)",
-    "updated_at": "2026-06-02T22:08:42Z",
-    "file": "docs/how-to-create-and-use-operational-schedules-hdmi-cec-rs-232.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/28598173096723-How-To-Create-and-Use-Operational-Schedules-HDMI-CEC-RS-232"
   }
 }
