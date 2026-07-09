@@ -1,4 +1,10 @@
 {
+  "53293393593491": {
+    "title": "Refer & Earn: OptiSigns Referral Program",
+    "updated_at": "2026-07-08T17:09:50Z",
+    "file": "docs/refer-earn-optisigns-referral-program.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program"
+  },
   "53216900345875": {
     "title": "What Access Does OptiSigns Have to My Account and Devices?",
     "updated_at": "2026-07-06T15:29:04Z",
@@ -7,7 +13,7 @@
   },
   "53095698149011": {
     "title": "Using the Japan Earthquake App",
-    "updated_at": "2026-07-06T14:22:20Z",
+    "updated_at": "2026-07-08T18:39:51Z",
     "file": "docs/using-the-japan-earthquake-app.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
   },
@@ -37,7 +43,7 @@
   },
   "52113036672403": {
     "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
-    "updated_at": "2026-06-15T19:14:16Z",
+    "updated_at": "2026-07-08T14:58:11Z",
     "file": "docs/room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2025-09-04T14:01:30Z",
     "file": "docs/how-to-create-an-attract-screen-for-your-kiosk.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk"
-  },
-  "29217646663187": {
-    "title": "How to Set Up Dynamic Data Mapping with OptiSync",
-    "updated_at": "2025-09-04T17:54:40Z",
-    "file": "docs/how-to-set-up-dynamic-data-mapping-with-optisync.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/29217646663187-How-to-Set-Up-Dynamic-Data-Mapping-with-OptiSync"
   }
 }
