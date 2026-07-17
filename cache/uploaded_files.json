@@ -31,6 +31,10 @@
     "hash": "d8535dd6ab3620605fad015b15e79bf790e24e28d70ab590f45417b07e4b7dc2",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/e50vz8rxajws"
   },
+  "/app/docs/device-management-and-mass-provisioning.md": {
+    "hash": "671e4b4f46d9324c8413d08b71f1025246fe4fa1b702c8972a9627ee8e05ee71",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/wv8zyy5g4jid"
+  },
   "/app/docs/disk-encryption.md": {
     "hash": "402713f54cb61cb9f09f935085ec6651b1a55b485c2192b1c3005af68e5368e3",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/ab3j0uck8fo3"

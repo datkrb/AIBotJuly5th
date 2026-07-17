@@ -1,4 +1,10 @@
 {
+  "53497007807251": {
+    "title": "Device Management and Mass Provisioning",
+    "updated_at": "2026-07-16T16:39:52Z",
+    "file": "docs/device-management-and-mass-provisioning.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
+  },
   "53293393593491": {
     "title": "Refer & Earn: OptiSigns Referral Program",
     "updated_at": "2026-07-08T17:09:50Z",
@@ -292,11 +298,5 @@
     "updated_at": "2025-08-28T19:03:16Z",
     "file": "docs/how-to-clear-cache-on-a-brightsign-player.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player"
-  },
-  "29232460955539": {
-    "title": "How to Create an Attract Screen for Your Kiosk",
-    "updated_at": "2025-09-04T14:01:30Z",
-    "file": "docs/how-to-create-an-attract-screen-for-your-kiosk.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/29232460955539-How-to-Create-an-Attract-Screen-for-Your-Kiosk"
   }
 }
