@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
 
 Updated At:
-2025-08-28T18:42:06Z
+2026-07-28T20:42:44Z
 
 ---
 
