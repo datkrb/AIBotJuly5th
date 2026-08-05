@@ -1,4 +1,10 @@
 {
+  "53952018650515": {
+    "title": "How to Display Databricks Dashboards on OptiSigns",
+    "updated_at": "2026-08-04T17:57:34Z",
+    "file": "docs/how-to-display-databricks-dashboards-on-optisigns.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
+  },
   "53497007807251": {
     "title": "Device Management and Mass Provisioning",
     "updated_at": "2026-07-16T16:39:52Z",
@@ -292,11 +298,5 @@
     "updated_at": "2026-04-08T13:41:37Z",
     "file": "docs/list-of-supported-cities-for-weather-wall-city-themes.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes"
-  },
-  "29238381023123": {
-    "title": "How to Clear Cache on a BrightSign Player",
-    "updated_at": "2025-08-28T19:03:16Z",
-    "file": "docs/how-to-clear-cache-on-a-brightsign-player.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/29238381023123-How-to-Clear-Cache-on-a-BrightSign-Player"
   }
 }
