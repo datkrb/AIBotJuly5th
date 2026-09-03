@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control
 
 Updated At:
-2025-09-04T20:14:54Z
+2026-09-02T20:41:23Z
 
 ---
 
@@ -15,7 +15,7 @@ This guide will walk you through the steps to effectively use the app's remote c
 |  |
 | --- |
 | **Note:** |
-| The Remote Control feature on the OptiSigns Admin Mobile app is only available for the [OptiSigns Android Stick Player](https://shop.optisigns.com/products/optisigns-android-stick-player-2) Gen 2 and Gen 3. |
+| The Remote Control feature on the OptiSigns Admin Mobile app is only available on OptiSigns players. |
 
 ####
 
