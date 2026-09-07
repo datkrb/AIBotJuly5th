@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync
 
 Updated At:
-2025-09-04T20:31:25Z
+2026-09-07T01:18:36Z
 
 ---
 
