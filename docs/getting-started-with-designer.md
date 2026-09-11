@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer
 
 Updated At:
-2025-10-07T17:18:32Z
+2026-09-10T10:46:39Z
 
 ---
 

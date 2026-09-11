@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player
 
 Updated At:
-2025-09-02T20:08:24Z
+2026-09-10T16:15:36Z
 
 ---
 

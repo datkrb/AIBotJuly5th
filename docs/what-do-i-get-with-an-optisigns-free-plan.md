@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
 
 Updated At:
-2026-09-07T09:51:00Z
+2026-09-10T09:51:52Z
 
 ---
 

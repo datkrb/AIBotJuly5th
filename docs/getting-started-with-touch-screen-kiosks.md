@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks
 
 Updated At:
-2025-10-29T18:57:43Z
+2026-09-10T09:51:34Z
 
 ---
 

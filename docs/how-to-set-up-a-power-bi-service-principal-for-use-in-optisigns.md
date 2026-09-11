@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns
 
 Updated At:
-2026-03-17T22:32:17Z
+2026-09-10T09:51:45Z
 
 ---
 

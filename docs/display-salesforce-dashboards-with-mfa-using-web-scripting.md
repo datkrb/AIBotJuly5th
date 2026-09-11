@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting
 
 Updated At:
-2025-09-02T20:45:08Z
+2026-09-10T09:51:44Z
 
 ---
 

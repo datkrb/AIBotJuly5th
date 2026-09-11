@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/33382537925267-Making-a-Video-Wall-with-OptiSigns-Video-Wall-App
 
 Updated At:
-2026-09-04T16:24:39Z
+2026-09-10T09:51:47Z
 
 ---
 

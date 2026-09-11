@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices
 
 Updated At:
-2026-04-21T19:22:05Z
+2026-09-10T09:51:32Z
 
 ---
 

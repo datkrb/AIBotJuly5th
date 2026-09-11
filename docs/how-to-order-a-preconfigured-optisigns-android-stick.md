@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick
 
 Updated At:
-2026-08-25T21:52:40Z
+2026-09-10T09:51:37Z
 
 ---
 

@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial
 
 Updated At:
-2025-09-04T18:44:24Z
+2026-09-10T10:46:25Z
 
 ---
 
