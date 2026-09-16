@@ -1,4 +1,22 @@
 {
+  "55450681344915": {
+    "title": "Connect SharePoint News to OptiSigns Digital Signage",
+    "updated_at": "2026-09-15T23:09:01Z",
+    "file": "docs/connect-sharepoint-news-to-optisigns-digital-signage.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
+  },
+  "55416186918163": {
+    "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+    "updated_at": "2026-09-15T17:33:06Z",
+    "file": "docs/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast"
+  },
+  "55416185869331": {
+    "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+    "updated_at": "2026-09-15T15:34:23Z",
+    "file": "docs/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
+  },
   "54095075680275": {
     "title": "OptiDev Add-on - Free Trial and Pricing",
     "updated_at": "2026-08-05T18:22:19Z",
@@ -280,23 +298,5 @@
     "updated_at": "2026-09-10T09:51:32Z",
     "file": "docs/enabling-lock-down-mode-on-touch-screen-devices.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices"
-  },
-  "30304278652563": {
-    "title": "How to Use the Mobile App for Remote Control",
-    "updated_at": "2026-09-10T09:51:30Z",
-    "file": "docs/how-to-use-the-mobile-app-for-remote-control.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/30304278652563-How-to-Use-the-Mobile-App-for-Remote-Control"
-  },
-  "29792081890323": {
-    "title": "Guide for Creating Content with OptiSigns",
-    "updated_at": "2026-09-10T09:51:20Z",
-    "file": "docs/guide-for-creating-content-with-optisigns.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/29792081890323-Guide-for-Creating-Content-with-OptiSigns"
-  },
-  "29465595849235": {
-    "title": "List of Supported Cities for Weather Wall City Themes",
-    "updated_at": "2026-09-10T09:51:18Z",
-    "file": "docs/list-of-supported-cities-for-weather-wall-city-themes.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/29465595849235-List-of-Supported-Cities-for-Weather-Wall-City-Themes"
   }
 }

@@ -3,6 +3,10 @@
     "hash": "01f6cc78c47cb73437372c60568fde7b0b3d39cf3e1a246b256d0d02af6ef983",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/r3vxzsj3wby7"
   },
+  "/app/docs/broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
+    "hash": "8c573d817b9e6fd2c04a16beba79e0ef3ef462e60b8103d2ea81a5b1abb1ef57",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/vqrxef7gzidr"
+  },
   "/app/docs/chromeos-pwa-instructions.md": {
     "hash": "29e074d4ca69c35d448f35b8f73a92f362b28665c7aeb34f57f12bef4e3a8f27",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/j2h17i4iedlw"
@@ -22,6 +26,10 @@
   "/app/docs/connect-microsoft-teams-rooms-to-optisigns-digital-signage.md": {
     "hash": "3e13776739bcfb7c70078605dd22385606271c698d0bf1f99d4be794e01646a3",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/q5wbevfeokt3"
+  },
+  "/app/docs/connect-sharepoint-news-to-optisigns-digital-signage.md": {
+    "hash": "44b81a1972e24bcef34605d1d501d0fa60255a8f6e04095e12f5f5d665a2a275",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/e8tn3b8mheh8"
   },
   "/app/docs/connect-zoom-rooms-to-optisigns-digital-signage.md": {
     "hash": "445a3d1d5fe861ce7907eac4dedbfbe733be63780bdf92e160ca739adadb216a",
@@ -94,6 +102,10 @@
   "/app/docs/how-to-display-databricks-dashboards-on-optisigns.md": {
     "hash": "55ce8a38fec100694d982b9798f21a7a4121bb01986b58339e35272a29980e86",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/w7ws24v4zx4h"
+  },
+  "/app/docs/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
+    "hash": "1e44e34afa8cdcf49f8a80847e88ceab59a28843d018887209293b45fa05e67d",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/1ink1yzonkhe"
   },
   "/app/docs/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md": {
     "hash": "32b247e8e806b01a453fef8ff429420a41083088ecbcb210831b0351750da71d",
