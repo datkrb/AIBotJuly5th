@@ -12,8 +12,8 @@
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/j2h17i4iedlw"
   },
   "/app/docs/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md": {
-    "hash": "54ec03fd6e05a86c6417167c33f7bbc7056e1ee2aceec80203fa3c532de71a20",
-    "uri": "https://generativelanguage.googleapis.com/v1beta/files/uboldwj39210"
+    "hash": "8b270077d7f3cba19e1c5b6d403b6026669c480ae4258bc1b6ec508d76239ff9",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/fza0lamjy32p"
   },
   "/app/docs/connect-cisco-webex-rooms-to-optisigns-digital-signage.md": {
     "hash": "62eabbe9dae0aaf18c89028aad23c30bbe3f3a2e59a399126cbe63b454a6d44e",
@@ -226,6 +226,10 @@
   "/app/docs/using-the-japan-earthquake-app.md": {
     "hash": "67ee8bbe759e5375e60459ea560619dc8e7e55ce9e2d3fc21d9621885ee6cd25",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/yfv4yivkhdis"
+  },
+  "/app/docs/using-the-japan-transit-app.md": {
+    "hash": "1e4ce0f5eda3438221b20a320c2f06479600e12e38aff24da6dbc9fc34e67597",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/bc6uvoekt76i"
   },
   "/app/docs/what-access-does-optisigns-have-to-my-account-and-devices.md": {
     "hash": "128131e1eff0c167bcc7d16ec4e902b772d30fc4c864d9c6d56a0fb3f25a77e3",

@@ -1,4 +1,10 @@
 {
+  "55640830295187": {
+    "title": "Using the Japan Transit App",
+    "updated_at": "2026-09-21T20:41:52Z",
+    "file": "docs/using-the-japan-transit-app.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App"
+  },
   "55450681344915": {
     "title": "Connect SharePoint News to OptiSigns Digital Signage",
     "updated_at": "2026-09-15T23:09:01Z",
@@ -277,7 +283,7 @@
   },
   "31695220475283": {
     "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
-    "updated_at": "2025-08-29T17:04:07Z",
+    "updated_at": "2026-09-21T19:42:14Z",
     "file": "docs/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2025-09-02T20:24:12Z",
     "file": "docs/how-to-use-toast-api-data-with-optisigns.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns"
-  },
-  "30310366838803": {
-    "title": "Enabling Lock Down Mode on Touch Screen Devices",
-    "updated_at": "2026-09-10T09:51:32Z",
-    "file": "docs/enabling-lock-down-mode-on-touch-screen-devices.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/30310366838803-Enabling-Lock-Down-Mode-on-Touch-Screen-Devices"
   }
 }
