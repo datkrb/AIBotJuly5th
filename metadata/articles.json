@@ -1,4 +1,10 @@
 {
+  "55669121864979": {
+    "title": "Using the Flight Schedule App",
+    "updated_at": "2026-09-22T18:59:24Z",
+    "file": "docs/using-the-flight-schedule-app.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App"
+  },
   "55640830295187": {
     "title": "Using the Japan Transit App",
     "updated_at": "2026-09-21T20:41:52Z",
@@ -10,6 +16,12 @@
     "updated_at": "2026-09-15T23:09:01Z",
     "file": "docs/connect-sharepoint-news-to-optisigns-digital-signage.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
+  },
+  "55447693635731": {
+    "title": "How to Display Grafana Dashboards on OptiSigns",
+    "updated_at": "2026-09-22T14:14:49Z",
+    "file": "docs/how-to-display-grafana-dashboards-on-optisigns.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns"
   },
   "55416186918163": {
     "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
@@ -286,17 +298,5 @@
     "updated_at": "2026-09-21T19:42:14Z",
     "file": "docs/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices"
-  },
-  "31449657955347": {
-    "title": "Getting Started with Touch Screen Kiosks",
-    "updated_at": "2026-09-10T09:51:34Z",
-    "file": "docs/getting-started-with-touch-screen-kiosks.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/31449657955347-Getting-Started-with-Touch-Screen-Kiosks"
-  },
-  "31113088917907": {
-    "title": "How to use Toast API data with OptiSigns",
-    "updated_at": "2025-09-02T20:24:12Z",
-    "file": "docs/how-to-use-toast-api-data-with-optisigns.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/31113088917907-How-to-use-Toast-API-data-with-OptiSigns"
   }
 }
