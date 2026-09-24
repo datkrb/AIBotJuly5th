@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards
 
 Updated At:
-2026-09-15T15:34:23Z
+2026-09-23T16:24:51Z
 
 ---
 

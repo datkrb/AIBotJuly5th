@@ -1,4 +1,10 @@
 {
+  "55709616003219": {
+    "title": "Using the X Social App / Add-On",
+    "updated_at": "2026-09-23T19:58:50Z",
+    "file": "docs/using-the-x-social-app-add-on.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On"
+  },
   "55669121864979": {
     "title": "Using the Flight Schedule App",
     "updated_at": "2026-09-22T18:59:24Z",
@@ -31,7 +37,7 @@
   },
   "55416185869331": {
     "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-    "updated_at": "2026-09-15T15:34:23Z",
+    "updated_at": "2026-09-23T16:24:51Z",
     "file": "docs/broadcast-send-scheduled-snapshots-of-your-dashboards.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2026-09-10T09:51:36Z",
     "file": "docs/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/31860170199955-Integrating-Point-of-Sale-POS-Systems-to-Build-Digital-Menu-Boards-with-OptiSync"
-  },
-  "31695220475283": {
-    "title": "Configuring Mass Deployment with Jamf Pro MDM on Apple Devices",
-    "updated_at": "2026-09-21T19:42:14Z",
-    "file": "docs/configuring-mass-deployment-with-jamf-pro-mdm-on-apple-devices.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/31695220475283-Configuring-Mass-Deployment-with-Jamf-Pro-MDM-on-Apple-Devices"
   }
 }
