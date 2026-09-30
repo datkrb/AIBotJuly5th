@@ -107,6 +107,10 @@
     "hash": "c7c5aec083e5c601297617420170a3caadb5bc1a98d792371decbb4c92fa0d44",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/25uc7cc68jdg"
   },
+  "/app/docs/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
+    "hash": "0fae15e226bc2d32cce68609408438cfeff151d598b8bf62705849f6b3f1d6a4",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/yrbein6koptf"
+  },
   "/app/docs/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
     "hash": "1e44e34afa8cdcf49f8a80847e88ceab59a28843d018887209293b45fa05e67d",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/1ink1yzonkhe"
@@ -162,6 +166,10 @@
   "/app/docs/how-to-use-the-tableau-app.md": {
     "hash": "74b3597b3d3460d688e6fcc876508685c52e772ac446d08d54ecf41441bb2375",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/71g4aegdau17"
+  },
+  "/app/docs/how-to-use-the-weather-radar-app.md": {
+    "hash": "a752449d6ba105a346c6ca224dbae732b28d1845be70b6a355e670f528ab3b12",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ew55662agnc2"
   },
   "/app/docs/how-to-use-the-youtube-dashboard-app.md": {
     "hash": "4fdbba4cc9bb3e8589db4976c4dc7ea57cef323e59a4754e01954540bfd17d63",

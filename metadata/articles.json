@@ -1,4 +1,16 @@
 {
+  "55906396437523": {
+    "title": "How to Use the Weather Radar App",
+    "updated_at": "2026-09-29T19:04:57Z",
+    "file": "docs/how-to-use-the-weather-radar-app.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App"
+  },
+  "55895814798739": {
+    "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+    "updated_at": "2026-09-29T19:44:32Z",
+    "file": "docs/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
+  },
   "55719322614803": {
     "title": "Inbound Webhook DataSources in Designer",
     "updated_at": "2026-09-24T17:00:10Z",
@@ -286,17 +298,5 @@
     "updated_at": "2026-09-28T20:24:07Z",
     "file": "docs/how-to-set-up-a-power-bi-service-principal-for-use-in-optisigns.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/32860569148819-How-to-Set-Up-a-Power-BI-Service-Principal-for-Use-in-OptiSigns"
-  },
-  "32839794222099": {
-    "title": "Display Salesforce Dashboards with MFA using Web Scripting",
-    "updated_at": "2026-09-10T09:51:44Z",
-    "file": "docs/display-salesforce-dashboards-with-mfa-using-web-scripting.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/32839794222099-Display-Salesforce-Dashboards-with-MFA-using-Web-Scripting"
-  },
-  "31960461758611": {
-    "title": "How to Order a Preconfigured OptiSigns Android Stick",
-    "updated_at": "2026-09-10T09:51:37Z",
-    "file": "docs/how-to-order-a-preconfigured-optisigns-android-stick.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/31960461758611-How-to-Order-a-Preconfigured-OptiSigns-Android-Stick"
   }
 }
