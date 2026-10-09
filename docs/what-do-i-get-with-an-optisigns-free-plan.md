@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/33940834613139-What-Do-I-Get-With-an-OptiSigns-Free-Plan
 
 Updated At:
-2026-10-07T22:30:11Z
+2026-10-08T16:57:16Z
 
 ---
 
@@ -58,6 +58,7 @@ The Free Plan is **ONLY** supported on these devices:
 The OptiSigns Free Plan **IS NOT SUPPORTED ON:**
 
 * Amazon Devices (FireStick, Amazon Signage Stick, FireTV)
+* Android Devices (including Android Smart TVs, Google TV, Chromecast with Google TV, and other Android-based players)
 * Roku
 * Smart TVs (Samsung, LG, etc.)
 * ChromeOS
