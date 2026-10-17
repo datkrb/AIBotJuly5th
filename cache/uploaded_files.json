@@ -103,13 +103,17 @@
     "hash": "55ce8a38fec100694d982b9798f21a7a4121bb01986b58339e35272a29980e86",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/w7ws24v4zx4h"
   },
+  "/app/docs/how-to-display-datadog-dashboards-on-optisigns.md": {
+    "hash": "d565d99879984b596f0e52e991db8c12aa7d8e1df89400f6d562ee7638b93110",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/s07pofvaojx9"
+  },
   "/app/docs/how-to-display-grafana-dashboards-on-optisigns.md": {
     "hash": "83e219d3556fabe53ecb158779b897ebd941640341e72db44b39662e23518314",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/wp09cgs16q5d"
   },
   "/app/docs/how-to-display-salesforce-dashboards-and-reports-on-optisigns.md": {
-    "hash": "9a75fa60a7f1528aef9aa7f05ebc5708fc36b5a71703946a3831e4dc50493629",
-    "uri": "https://generativelanguage.googleapis.com/v1beta/files/u0tsm3k5r0i7"
+    "hash": "ae2db5551083c88ae3e33c56ce1651319b62ff0d6ba636d2de1c877b292dbe6b",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/ludch8ljfai0"
   },
   "/app/docs/how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md": {
     "hash": "1e44e34afa8cdcf49f8a80847e88ceab59a28843d018887209293b45fa05e67d",
@@ -146,6 +150,14 @@
   "/app/docs/how-to-use-optisigns-with-microsoft-teams-rooms.md": {
     "hash": "3464aef69ee3cc6f1c189a92f4862423f9494cc5fe40602d597d78ef8b08358c",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/n7ww6xqjcesn"
+  },
+  "/app/docs/how-to-use-the-air-quality-index-app.md": {
+    "hash": "7c7e397b834e30b8df416c75e8a10a3479563d5a2fa81dc484bcc7b056ecbc9e",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/f9jk3ekbojxg"
+  },
+  "/app/docs/how-to-use-the-eventbrite-events-app.md": {
+    "hash": "8221b39bb3e28a711d76c49b01af44514e17a1d356d7cee0724fcfa9ea79959f",
+    "uri": "https://generativelanguage.googleapis.com/v1beta/files/qgirrkufe66o"
   },
   "/app/docs/how-to-use-the-google-ads-dashboard-app.md": {
     "hash": "0c61dc445337d0e086ae999e52e18212514a9b0aa2307c626ca665a088b51dfa",
