@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting
 
 Updated At:
-2026-04-20T21:26:17Z
+2026-10-22T23:47:31Z
 
 ---
 
