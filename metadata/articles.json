@@ -1,4 +1,10 @@
 {
+  "56946344474003": {
+    "title": "LG webOS Smart TVs (Consumer Grade)",
+    "updated_at": "2026-10-29T16:54:08Z",
+    "file": "docs/lg-webos-smart-tvs-consumer-grade.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade"
+  },
   "56498391179667": {
     "title": "How to Use the Eventbrite Events App",
     "updated_at": "2026-10-16T21:22:00Z",
@@ -292,11 +298,5 @@
     "updated_at": "2025-09-04T16:54:34Z",
     "file": "docs/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens"
-  },
-  "34379983350163": {
-    "title": "Accepted Payment Methods",
-    "updated_at": "2025-09-04T15:39:32Z",
-    "file": "docs/accepted-payment-methods.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/34379983350163-Accepted-Payment-Methods"
   }
 }
