@@ -1,4 +1,10 @@
 {
+  "56987330525587": {
+    "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+    "updated_at": "2026-10-30T19:28:50Z",
+    "file": "docs/connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
+  },
   "56946344474003": {
     "title": "LG webOS Smart TVs (Consumer Grade)",
     "updated_at": "2026-10-29T16:54:08Z",
@@ -292,11 +298,5 @@
     "updated_at": "2026-09-10T10:46:19Z",
     "file": "docs/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments"
-  },
-  "35184720136595": {
-    "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
-    "updated_at": "2025-09-04T16:54:34Z",
-    "file": "docs/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens"
   }
 }
