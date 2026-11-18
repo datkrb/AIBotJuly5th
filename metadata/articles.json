@@ -1,4 +1,10 @@
 {
+  "57645638683411": {
+    "title": "The New Designer: Complete Feature Guide",
+    "updated_at": "2026-11-17T17:52:09Z",
+    "file": "docs/the-new-designer-complete-feature-guide.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide"
+  },
   "56987330525587": {
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
     "updated_at": "2026-10-30T19:28:50Z",
@@ -292,11 +298,5 @@
     "updated_at": "2026-09-10T10:46:19Z",
     "file": "docs/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments"
-  },
-  "35184720136595": {
-    "title": "How to Install a Root Certificate and Display an Internal Website on Screens",
-    "updated_at": "2025-09-04T16:54:34Z",
-    "file": "docs/how-to-install-a-root-certificate-and-display-an-internal-website-on-screens.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/35184720136595-How-to-Install-a-Root-Certificate-and-Display-an-Internal-Website-on-Screens"
   }
 }

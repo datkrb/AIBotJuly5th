@@ -251,6 +251,10 @@
     "hash": "fea1a62cec5cfe721ba3e400fea4461bee2de0c87098be4061daea27fc483c37",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/a36h5yliwybj"
   },
+  "/app/docs/the-new-designer-complete-feature-guide.md": {
+    "hash": "98ccf67581178c850c0ad48afbe7725b9a44545ccf5340d74a13bda8d6ac3c37",
+    "uri": "https://generativelanguage.googleapis.com/v1/files/2t76rq98om7k"
+  },
   "/app/docs/user-management-example-chain-restaurant-or-retail-store-with-multiple-locations.md": {
     "hash": "50922abdbceb00cfe6d9ca0aa5e4e86616558cea336d974e72dbcb9f89398158",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/um0z6d4nervq"
