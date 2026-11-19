@@ -1,4 +1,10 @@
 {
+  "57688527779219": {
+    "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
+    "updated_at": "2026-11-18T18:22:31Z",
+    "file": "docs/ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector"
+  },
   "57645638683411": {
     "title": "The New Designer: Complete Feature Guide",
     "updated_at": "2026-11-17T17:52:09Z",
@@ -7,7 +13,7 @@
   },
   "56987330525587": {
     "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
-    "updated_at": "2026-10-30T19:28:50Z",
+    "updated_at": "2026-11-18T16:34:19Z",
     "file": "docs/connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
   },
@@ -91,7 +97,7 @@
   },
   "54095075680275": {
     "title": "OptiDev Add-on - Free Trial and Pricing",
-    "updated_at": "2026-08-05T18:22:19Z",
+    "updated_at": "2026-11-18T17:12:24Z",
     "file": "docs/optidev-add-on-free-trial-and-pricing.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2026-09-10T16:15:36Z",
     "file": "docs/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player"
-  },
-  "35749502945555": {
-    "title": "How to Using SEPA and iDEAL for EUR Currency Subscription Payments",
-    "updated_at": "2026-09-10T10:46:19Z",
-    "file": "docs/how-to-using-sepa-and-ideal-for-eur-currency-subscription-payments.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/35749502945555-How-to-Using-SEPA-and-iDEAL-for-EUR-Currency-Subscription-Payments"
   }
 }

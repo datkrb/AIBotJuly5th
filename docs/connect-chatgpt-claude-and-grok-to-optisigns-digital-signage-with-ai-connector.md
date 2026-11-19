@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector
 
 Updated At:
-2026-10-30T19:28:50Z
+2026-11-18T16:34:19Z
 
 ---
 
@@ -44,7 +44,7 @@ With the OptiSigns AI Connector, you can update your screens by asking the AI as
 
 ## Turn On the AI Connector
 
-The AI Connector is off by default. The account owner or a super admin turns it on once for the whole account.
+The AI Connector is on by default. If it has been turned off, the account owner or a super admin can turn it back on for the whole account.
 
 1. In the [OptiSigns portal](https://app.optisigns.com), open your account settings and select **Preferences**.
 2. In the **General** section, check **Enable AI connector (MCP)**.

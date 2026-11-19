@@ -2,7 +2,7 @@ Article URL:
 https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing
 
 Updated At:
-2026-08-05T18:22:19Z
+2026-11-18T17:12:24Z
 
 ---
 
@@ -41,7 +41,7 @@ This article covers what it costs, what’s included each month, how the 14-day 
 To get started with an OptiDev add-on, you’ll need:
 
 * An OptiSigns account - [**Standard Plan or higher**](https://www.optisigns.com/pricing).
-* Owner or Super Admin permissions.
+* Owner, Admin or Super Admin permissions.
 * An [OptiSigns-enabled device](/hc/en-us/articles/360021855653)
 * A screen, [set up and paired with OptiSigns](/hc/en-us/articles/18823504383891)
 
