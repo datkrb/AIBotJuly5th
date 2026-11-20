@@ -7,6 +7,10 @@
     "hash": "7be22abbb312f5cc1e2606ecf1bc7074494a87d98064c9846e7829978115822f",
     "uri": "https://generativelanguage.googleapis.com/v1/files/ubct0rad7yuz"
   },
+  "/app/docs/billing-purchase-orders-invoices-and-tax-exemption.md": {
+    "hash": "40aeb570cd8f1d50d4f9407663c970c0d46508622e81ef11e7cbe4635657f3b6",
+    "uri": "https://generativelanguage.googleapis.com/v1/files/5pfz4r9acjsi"
+  },
   "/app/docs/broadcast-send-scheduled-snapshots-of-your-dashboards.md": {
     "hash": "84299c7e01a6e2822fb2e41835f7ca5e9f1d771112a17adfbe1a4f1a634ccfac",
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/xge307xwk7pk"
@@ -68,8 +72,8 @@
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/0vt7pne6c8qx"
   },
   "/app/docs/getting-started-with-an-optisigns-free-trial.md": {
-    "hash": "46a128a008f8cc3432127511e8769ef620958a6a0d536e869f5cef0f82bdfdba",
-    "uri": "https://generativelanguage.googleapis.com/v1beta/files/md5q56ed0nzl"
+    "hash": "763cdc1cd8398cadc8dcbe2abace5e1a094e01ade075c1ba52a88d9c770a45bb",
+    "uri": "https://generativelanguage.googleapis.com/v1/files/riofrtps2qub"
   },
   "/app/docs/getting-started-with-designer.md": {
     "hash": "1271ed8c3f91c135077184cc6377abc35a4a561a31fd8db16d8d1e6280ec04bf",
@@ -204,8 +208,8 @@
     "uri": "https://generativelanguage.googleapis.com/v1beta/files/ceu8ns7l4ij2"
   },
   "/app/docs/inbound-webhook-datasources-in-designer.md": {
-    "hash": "e9edd4a2b2f703d8638d8ea71cb9225b99ce760cfeee468406adb57a97fe0525",
-    "uri": "https://generativelanguage.googleapis.com/v1beta/files/t93sh5d2j7ey"
+    "hash": "e81fee73c05d064c6d843417b6823cd2d7bf633a2af2a37c2497deeb04d634e6",
+    "uri": "https://generativelanguage.googleapis.com/v1/files/jhter5u6qxdj"
   },
   "/app/docs/integrating-point-of-sale-pos-systems-to-build-digital-menu-boards-with-optisync.md": {
     "hash": "0424829d67cdd0a6ae83ccddc9f26abff7db23083230484665720d502cae4621",

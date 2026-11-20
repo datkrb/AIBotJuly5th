@@ -1,4 +1,10 @@
 {
+  "57730354923923": {
+    "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+    "updated_at": "2026-11-19T20:27:28Z",
+    "file": "docs/billing-purchase-orders-invoices-and-tax-exemption.md",
+    "html_url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption"
+  },
   "57688527779219": {
     "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
     "updated_at": "2026-11-18T18:22:31Z",
@@ -49,7 +55,7 @@
   },
   "55719322614803": {
     "title": "Inbound Webhook DataSources in Designer",
-    "updated_at": "2026-09-24T17:00:10Z",
+    "updated_at": "2026-11-19T22:38:32Z",
     "file": "docs/inbound-webhook-datasources-in-designer.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
   },
@@ -283,7 +289,7 @@
   },
   "37966066335891": {
     "title": "Getting Started with an OptiSigns Free Trial",
-    "updated_at": "2026-09-10T10:46:25Z",
+    "updated_at": "2026-11-19T20:21:58Z",
     "file": "docs/getting-started-with-an-optisigns-free-trial.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial"
   },
@@ -292,11 +298,5 @@
     "updated_at": "2026-09-30T21:54:02Z",
     "file": "docs/how-to-use-optisigns-with-microsoft-teams-rooms.md",
     "html_url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms"
-  },
-  "36501302096915": {
-    "title": "How to access the Troubleshooting page of the OptiSigns Player",
-    "updated_at": "2026-09-10T16:15:36Z",
-    "file": "docs/how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
-    "html_url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player"
   }
 }
